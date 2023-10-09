@@ -1,0 +1,4 @@
+{
+  "testRepo": "fizzbuzz-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
